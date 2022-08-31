@@ -10,5 +10,5 @@ Click [here](Overview of NLP.pdf) to look at the document.
 **How to run:**  First, download the .csv file and place it in a folder named data within the same folder as your Python program. Second, specify the relative path ‘data/data.csv’ in a sysarg. Lastly, add the .py file in the program and run it.<br>
 **What I learned:** This is the first time I have written a Python program, so I learned a lot of things along the way. I learned how to define a class, how to create a function, how to read and process data from a file, and how to pickle and unpickle a file.<br>
 **Strengths/Weaknesses of Python:** In my opinion, the text processing aspect of Python is similar to other languages I have used in the past. One thing that was new to me was the concept of regular exprerssion. It made it easier to compare the text with the valid format. That is not something that I have yet explored in other languages.<br>
-Click [here](Assignment1-MSA200007.py) to look at the code.<br>
+Click [here](Assignment1.py) to look at the code.<br>
 Click [here](data.csv) to download the data file.
