@@ -14,5 +14,5 @@ Click [here](Assignment1.py) to download the code.<br>
 Click [here](data.csv) to download the data file.
 
 ## Assignment 2 - Exploring NLTK
-**Description:** This assignment explores some methods and features of the NLTK Library.
+**Description:** This assignment explores some methods and features of the NLTK Library.<br>
 Click [here](Exploring NLTK.pdf) to look at the document.
