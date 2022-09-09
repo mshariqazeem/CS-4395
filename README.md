@@ -12,3 +12,7 @@ Click [here](Overview of NLP.pdf) to look at the document.
 **Strengths/Weaknesses of Python:** In my opinion, the text processing aspect of Python is similar to other languages I have used in the past. One thing that was new to me was the concept of regular exprerssion. It made it easier to compare the text with the valid format. That is not something that I have yet explored in other languages.<br>
 Click [here](Assignment1.py) to download the code.<br>
 Click [here](data.csv) to download the data file.
+
+## Assignment 2 - Exploring NLTK
+**Description:** This assignment explores some methods and features of the NLTK Library.
+Click [here](Exploring NLTK.pdf) to look at the document.
