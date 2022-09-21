@@ -21,3 +21,7 @@ Click [here](Exploring NLTK.pdf) to look at the document.
 **Description:** This program finds the 50 most common nouns in a text file and creates a word guessing game using those nouns.<br>
 Click [here](Assignment3.py) to look at the code.<br>
 CLick [here](anat19.txt) to look at the text file used for this program.
+
+## Assignment 4 - WordNet
+**Description:** This assignment explores some features built in the WordNet Library.<br>
+Click [here](WordNet.pdf) to look at the document.
