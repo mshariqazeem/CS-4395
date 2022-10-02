@@ -25,3 +25,11 @@ CLick [here](anat19.txt) to look at the text file used for this program.
 ## Assignment 4 - WordNet
 **Description:** This assignment explores some features built in the WordNet Library.<br>
 Click [here](WordNet.pdf) to look at the document.
+
+## Assignment 5 - Ngrams
+**Description:** This assignment consists of two programs.<br>
+Program 1 reads multiple language documents and creates dictionaries of their unigrams and bigrams.<br>
+Program 2 reads in the dictionaries and uses them to predict the language of each line of a test document. Then, it compares the predictions to the actual languages to calculate the accuracy of the algorithm.<br>
+Click [here](ngrams.py) to look at Program 1.<br>
+Click [here](language_classification.py) to look at Program 2.<br>
+Click [here](Ngrams_Narrative.pdf) to look at a document discussing ngrams and their uses.
