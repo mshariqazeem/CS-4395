@@ -3,7 +3,7 @@ This is a repository for class CS 4395: Human Language Technologies.
 
 ## Assignment 0 - Getting Started
 **Description:** This is the first assignment for this course. In this document, I have given an overview of NLP, based on the first chapter of the book "Exploring NLP with Python" by Dr. Karen Mazidi.<br>
-Click [here](Overview of NLP.pdf) to look at the document.
+Click [here](Overview_of_NLP.pdf) to look at the document.
 
 ## Assignment 1 - Text Processing with Python
 **Description:** This program reads input from a .csv file, specified in the sysarg, that contains a list of employees and their attributes. Then, it processes that data and saves the attributes of each person in a Person Object. Next, it adds each Person Object in a Persons dictionary. Then, it saves that dictionary into a pickle file. Lastly, it reads information from the pickle file and prints it on the screen.<br>
@@ -15,7 +15,7 @@ Click [here](data.csv) to look at the data file.
 
 ## Assignment 2 - Exploring NLTK
 **Description:** This assignment explores some methods and features of the NLTK Library.<br>
-Click [here](Exploring NLTK.pdf) to look at the document.
+Click [here](Exploring_NLTK.pdf) to look at the document.
 
 ## Assignment 3 - Word Guessing Game
 **Description:** This program finds the 50 most common nouns in a text file and creates a word guessing game using those nouns.<br>
@@ -33,3 +33,9 @@ Program 2 reads in the dictionaries and uses them to predict the language of eac
 Click [here](ngrams.py) to look at Program 1.<br>
 Click [here](language_classification.py) to look at Program 2.<br>
 Click [here](Ngrams_Narrative.pdf) to look at a document discussing ngrams and their uses.
+
+## Assignment 6 - Web Crawler
+**Description:** This program crawls over a starter URL to find 15 relevant websites. Then, it scrapes all the text from those websites, and uses that text to build a knowledge base.<br>
+Click [here](WebCrawler.py) to look at the code.<br>
+Click [here](Knowledge_Base.pdf) to look at the Knowledge Base document.
+
