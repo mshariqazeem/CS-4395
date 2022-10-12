@@ -39,3 +39,6 @@ Click [here](Ngrams_Narrative.pdf) to look at a document discussing ngrams and t
 Click [here](WebCrawler.py) to look at the code.<br>
 Click [here](Knowledge_Base.pdf) to look at the Knowledge Base document.
 
+## Assignment 7 - Sentence Parsing
+**Description:** This program explores PSG, Dependency, and SRL parsers on a sentence, and lists each of their pros and cons.<br>
+Click [here](Sentence_Parsing.pdf) to look at the document.
