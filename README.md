@@ -42,3 +42,8 @@ Click [here](Knowledge_Base.pdf) to look at the Knowledge Base document.
 ## Assignment 7 - Sentence Parsing
 **Description:** This program explores PSG, Dependency, and SRL parsers on a sentence, and lists each of their pros and cons.<br>
 Click [here](Sentence_Parsing.pdf) to look at the document.
+
+## Assignment 8 - Author Attribution
+**Description:** This assignment perfroms Naive Bayes, Logistic Regression, and Neural Network on a set of texts, to classify its author.<br>
+Click [here](Author_Attribution.pdf) to look at the document.<br>
+Click [here](federalist.csv) to look at the data.
