@@ -47,3 +47,7 @@ Click [here](Sentence_Parsing.pdf) to look at the document.
 **Description:** This assignment perfroms Naive Bayes, Logistic Regression, and Neural Network on a set of texts, to classify its author.<br>
 Click [here](Author_Attribution.pdf) to look at the document.<br>
 Click [here](federalist.csv) to look at the data.
+
+## Assignment 9 - ACL Paper Summary
+**Description:** This assignment looks at one of the papers published for the ACL Conference and summarizes the problem and solutions discussed in that paper.<br>
+Click [here](ACL_Paper_Summary.pdf) to look at the summary document.
