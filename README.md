@@ -54,5 +54,5 @@ Click [here](ACL_Paper_Summary.pdf) to look at the summary document.
 
 ## Assignment 10 - Text Classification
 **Description:** This assignment builds different models to perform text classification on a data set taken from Kaggle.
-Click [here](Text_Classification.pdf) to look at the classification notebook.
+Click [here](Text_Classification.pdf) to look at the classification notebook.<br>
 Click [here](News_Data.csv) to look at the data set.
