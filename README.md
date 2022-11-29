@@ -51,3 +51,8 @@ Click [here](federalist.csv) to look at the data.
 ## Assignment 9 - ACL Paper Summary
 **Description:** This assignment looks at one of the papers published for the ACL Conference and summarizes the problem and solutions discussed in that paper.<br>
 Click [here](ACL_Paper_Summary.pdf) to look at the summary document.
+
+## Assignment 10 - Text Classification
+**Description:** This assignment builds different models to perform text classification on a data set taken from Kaggle.
+Click [here](Text_Classification.pdf) to look at the classification notebook.
+Click [here](News_Data.csv) to look at the data set.
